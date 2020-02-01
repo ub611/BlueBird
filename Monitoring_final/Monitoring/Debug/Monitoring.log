@@ -1,0 +1,13 @@
+﻿빌드 시작: 2017-11-17 오전 1:14:55
+     1>2 노드의 "C:\Users\ub2n6\Desktop\Monitoring_final\Monitoring\Monitoring.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IBthprops.lib /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MonFuncStaticLib.cpp
+         MonFuncStaticLib.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\ub2n6\Desktop\Monitoring_final\Debug\Monitoring.lib" /NOLOGO Debug\MonFuncStaticLib.obj
+         Monitoring.vcxproj -> C:\Users\ub2n6\Desktop\Monitoring_final\Debug\Monitoring.lib
+     1>"C:\Users\ub2n6\Desktop\Monitoring_final\Monitoring\Monitoring.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.59

@@ -1,0 +1,13 @@
+﻿빌드 시작: 2017-11-18 오후 10:13:47
+     1>2 노드의 "C:\Users\ub2n6\Desktop\새 폴더\Blue_final\Blue_final.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Bluecheck.cpp
+         Bluecheck.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\ub2n6\Desktop\새 폴더\Debug\Blue_final.lib" /NOLOGO Debug\Bluecheck.obj
+         Blue_final.vcxproj -> C:\Users\ub2n6\Desktop\새 폴더\Debug\Blue_final.lib
+     1>"C:\Users\ub2n6\Desktop\새 폴더\Blue_final\Blue_final.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.57
